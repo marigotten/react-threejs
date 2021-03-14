@@ -23,6 +23,11 @@ h1 {
   color: #fff;
   font-weight: 900;
 }
+img {
+  display: block;
+  width: 600px;
+  text-align: center;
+}
 `;
 
 
