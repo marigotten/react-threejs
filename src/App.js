@@ -16,6 +16,8 @@ font-smoothing: antialiased;
 body {
   background-color: #333;
   text-align: center;
+  display: flex;
+  justify-content: center;
 }
 h1 {
   display: block;
